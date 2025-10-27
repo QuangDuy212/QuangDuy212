@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Duy</h1>
 <h3 align="center">A full stack developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox" style="border-radius:10px;"/>
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/165684019/Chill-Bros/modules/934397723" style="border-radius:10px;"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
