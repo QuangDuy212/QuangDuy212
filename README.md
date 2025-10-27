@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quang Duy</h1>
 <h3 align="center">A full stack developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/djcnrah-ef8e4276-5bf8-4ff9-8180-411d5fdda051.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGpjbnJhaC1lZjhlNDI3Ni01YmY4LTRmZjktODE4MC00MTFkNWZkZGEwNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Pdpb6yGsTKGzQOunObV1qkqzh9fr83LktLdPxFxcCM" style="border-radius:10px;"/>
+<img 
+  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/djcnrah-ef8e4276-5bf8-4ff9-8180-411d5fdda051.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGpjbnJhaC1lZjhlNDI3Ni01YmY4LTRmZjktODE4MC00MTFkNWZkZGEwNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Pdpb6yGsTKGzQOunObV1qkqzh9fr83LktLdPxFxcCM" 
+  alt="Coding"
+  style="width: 100%; height: auto; border-radius: 10px;"
+/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
